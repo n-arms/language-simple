@@ -1,3 +1,6 @@
 ## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+* Add grammar parsing for:
+  * comments
+  * variable declarations
+  * keyword calls
+  * numbers and operators

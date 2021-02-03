@@ -1,0 +1,14 @@
+scopeName: 'source.smpl'
+name: 'Simple'
+fileTypes: [ 'smpl' ]
+limitLineLength: false
+
+patterns: [
+  {
+    #rule 1
+    comment: 'grammar rule for declarations'
+    name: 'comment.line.simple'
+    match: '#.*$'
+  }
+
+]

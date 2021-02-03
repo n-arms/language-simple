@@ -1,0 +1,19 @@
+{
+  "name": "language-simple",
+  "version": "0.0.0",
+  "description": "An example language grammar package",
+  "activationCommands": {
+    "atom-workspace": "your-name-word-count:toggle"
+  },
+  "repository": "https://github.com/narms/simple-grammar",
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "grammar"
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/narms/simple-grammar/issues",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
